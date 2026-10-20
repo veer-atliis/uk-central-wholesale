@@ -1,0 +1,74 @@
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import { createRequire } from 'node:module';
+import { pathToFileURL } from 'node:url';
+const require = createRequire('C:/Users/veerm/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/runtime.cjs');
+const { Workbook, SpreadsheetFile } = await import(pathToFileURL(require.resolve('@oai/artifact-tool')).href);
+const root = process.cwd();
+const out = path.join(root, 'Output/outputs/2026-10-20-stocktake');
+const work = path.join(root, 'Working Files/Stocktake Template');
+const wb = Workbook.create();
+const stock = wb.worksheets.add('Stocktake');
+const guide = wb.worksheets.add('Instructions');
+const navy = '#24476A', purple = '#714B67', amber = '#E7B34B';
+for (const s of [stock, guide]) { s.showGridLines = false; s.tabColor = s === stock ? navy : purple; }
+stock.getRange('A1:H101').format.font = {name:'Arial',size:11,color:'#253649'};
+stock.getRange('A1:H101').format.rowHeight = 24;
+stock.getRange('A1:H101').format.verticalAlignment = 'center';
+stock.getRange('A1:H1').values = [['Internal Reference','Product / Variant','Barcode','Location','Unit of Measure','Counted Quantity','Notes','External ID']];
+stock.tables.add('A1:H101', true, 'StocktakeTable');
+stock.getRange('A1:H1').format = {fill:navy,font:{name:'Arial',size:11,bold:true,color:'#FFFFFF'},rowHeight:36,wrapText:true,horizontalAlignment:'center',verticalAlignment:'center'};
+stock.getRange('F1:G1').format.fill = amber;
+stock.getRange('F1:G1').format.font.color = '#253649';
+stock.getRange('H1').format.fill = purple;
+for (const [col,width] of Object.entries({A:19,B:38,C:20,D:22,E:17,F:20,G:30,H:40})) stock.getRange(`${col}1:${col}101`).format.columnWidth=width;
+stock.getRange('A2:E101').setNumberFormat('@');
+stock.getRange('H2:H101').setNumberFormat('@');
+stock.getRange('F2:F101').setNumberFormat('0.########');
+stock.getRange('F2:G101').format.fill = '#FFF5D9';
+stock.getRange('F2:F101').dataValidation = {rule:{type:'decimal',operator:'greaterThanOrEqual',formula1:0}};
+stock.freezePanes.freezeRows(1);
+guide.getRange('A1:F42').format.font = {name:'Arial',size:11,color:'#253649'};
+guide.getRange('A1:F42').format.verticalAlignment = 'center';
+guide.getRange('A1:F42').format.rowHeight=23;
+guide.getRange('A1:A42').format.columnWidth=3;
+guide.getRange('B1:E42').format.columnWidth=26;
+guide.getRange('F1:F42').format.columnWidth=3;
+function line(row,text,height=36,fill) {
+  guide.mergeCells(`B${row}:E${row}`);
+  const r=guide.getRange(`B${row}:E${row}`);
+  r.values=[[text]]; r.format.wrapText=true; r.format.rowHeight=height;
+  if(fill) {r.format.fill=fill;r.format.font.bold=true;}
+}
+line(2,'UK Central Wholesale | Stocktake',30);
+guide.getRange('B2').format.font = {name:'Arial',size:16,bold:true,color:navy};
+line(4,'Count date and time (Perth): ____________________   Counted by: ____________________',30,'#FFF5D9');
+line(6,'CLIENT: COMPLETE THE AMBER COLUMNS',27,amber);
+line(7,'1. Veer prefills the product details. Enter Counted Quantity and optional Notes on the Stocktake tab. Do not change the other columns.',40);
+line(8,'2. Enter the total physically counted in the Unit of Measure shown. Count each variant separately. Do not enter an increase, decrease or stock difference.',40);
+line(9,'3. Enter 0 if counted and none found. Leave blank only if not counted. Enter non-negative numbers only, with decimals where the stock unit permits them.',40);
+line(10,'4. Confirm carton / pack conversions with Veer. Count only the location shown. Report unlisted or damaged stock and any movements during counting.',40);
+line(11,'5. Record the count date, time and your name above, then return this workbook to Veer.',30);
+line(14,'VEER: PREPARE THE PRODUCT LIST',27,navy);
+guide.getRange('B14').format.font.color='#FFFFFF';
+line(15,'From Inventory > Operations > Physical Inventory, select the agreed company, stock location and counting scope. Export existing lines using an import-compatible export.',42);
+line(16,'Prefill A–E and H from that export. H must contain the External ID of the physical inventory record (stock.quant), not the product External ID. Keep IDs and barcodes as text.',42);
+line(17,'Use one row per inventory record and leave F–G blank. Check for products missing from the export, including items with no inventory record. Prepare those separately. Extend the 100-row table if needed.',50);
+line(19,'VEER: PREPARE AND REVIEW THE IMPORT',27,navy);
+guide.getRange('B19').format.font.color='#FFFFFF';
+line(20,'Review missing counts, duplicate IDs, units and unusual results. Resolve unlisted products and account for stock movements since the count.',40);
+line(21,'Copy H and F as values into a separate import file: External ID and Counted Quantity, with headers in row 1. Include numeric counts, including 0. Exclude blank counts.',42);
+line(22,'Confirm the database version and field mapping. Import into Physical Inventory: External ID → inventory record ID; Counted Quantity → inventory_quantity. Do not map On Hand or Difference.',42);
+line(23,'Run Odoo’s Test. Verify a small authorised sample, including zero, before the full upload. Review counts and differences before applying the adjustment, then verify final on-hand quantities.',42);
+line(25,'Blank template prepared 20 October 2026. Prefill from Odoo before sending to the client. Live import mapping has not been tested.',36);
+wb.recalculate();
+console.log((await wb.inspect({kind:'table',range:'Stocktake!A1:H3',include:'values,formulas',tableMaxRows:3,tableMaxCols:8,maxChars:2500})).ndjson);
+console.log((await wb.inspect({kind:'match',searchTerm:'#REF!|#DIV/0!|#VALUE!|#NAME\\?|#N/A|#NUM!',options:{useRegex:true,maxResults:10},maxChars:1000})).ndjson);
+await fs.mkdir(out,{recursive:true});
+const result=await SpreadsheetFile.exportXlsx(wb);
+await result.save(path.join(out,'UK Central Wholesale - Stocktake Template.xlsx'));
+for (const [sheetName,range,file] of [['Stocktake','A1:H12','stocktake-preview.png'],['Instructions','A1:F25','instructions-preview.png']]) {
+  const blob=await wb.render({sheetName,range,scale:1.4,format:'png'});
+  await fs.writeFile(path.join(work,file),new Uint8Array(await blob.arrayBuffer()));
+}
+console.log('Saved workbook and previews.');
