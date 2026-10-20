@@ -1,6 +1,6 @@
 # Live setup — website availability automations
 
-Prepared for Veer on 2026-10-20 (Australia/Perth). This is a deployment guide, not a record of live deployment. Production has not been changed by the assistant.
+Prepared for Veer on 2026-10-20 (Australia/Perth). On 2026-10-21, Veer confirmed he updated both scheduled actions in live. This is user-reported deployment confirmation; the assistant has not independently verified live settings or execution. See Investigation.md for the deployment status record.
 
 ## Objective
 

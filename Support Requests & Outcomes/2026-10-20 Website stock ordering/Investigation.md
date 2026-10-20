@@ -103,3 +103,9 @@ Veer requested final code/settings for manual application to live and a retained
 Veer also requested updating `origin/main`. Initial checks in the OneDrive chat workspace returned “not a git repository”.
 
 On 2026-10-21, the registered project was located at `D:\Atliis Files\Codex & Github\uk-central-wholesale`, with origin `https://github.com/veer-atliis/uk-central-wholesale.git`. Its `main` branch was clean and matched fetched `origin/main` at `ca0c481` before adding this package. Veer authorised copying the final automation code, settings, testing notes and supporting screenshots into that repository and pushing to `origin/main`. This resolves the earlier repository-location blocker. Publishing these records does not constitute live Odoo deployment.
+
+## Live update confirmed by Veer — 2026-10-21
+
+Veer confirmed in chat: "I've updated those scheduled actions into live". This records Veer's reported update of both scheduled actions in the live UK Central Wholesale database using the handed-over automation package.
+
+The assistant has not independently inspected the live code/settings, active status or execution history after this update. Successful scheduled execution and live storefront validation have not yet been confirmed. The earlier statements that production was unchanged describe the state before Veer's update.
