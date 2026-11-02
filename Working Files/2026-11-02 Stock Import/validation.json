@@ -1,0 +1,16 @@
+{
+  "quantity_source": "D:\\Atliis Files\\Codex & Github\\uk-central-wholesale\\Go Live Files\\Client Supplied\\UK_Central_Wholesale_-_Stocktake_1_Oct_2026.xlsx",
+  "source_lines": 479,
+  "prepared_lines": 467,
+  "review_lines": 11,
+  "excluded_lines": 1,
+  "ready_quantity": 7318.17,
+  "review_quantity": 293.33,
+  "excluded_quantity": 15,
+  "total_quantity": 7626.5,
+  "all_source_rows_and_values_reconciled": true,
+  "source_units_blank_and_unconfirmed": true,
+  "source_files_unchanged": true,
+  "live_odoo_test_performed": false,
+  "documentation_links_valid": true
+}

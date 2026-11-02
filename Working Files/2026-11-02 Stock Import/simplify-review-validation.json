@@ -1,0 +1,7 @@
+{
+  "review_lines": 11,
+  "candidate_products": 22,
+  "review_quantity": 293.33,
+  "excluded_quantity": 15,
+  "checks": "Source values, product identities, blank responses, table headers, filters, frozen headers, validation and absence of formulas/errors verified."
+}

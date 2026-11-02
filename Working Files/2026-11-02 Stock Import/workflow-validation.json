@@ -1,0 +1,12 @@
+{
+  "path": "D:\\Atliis Files\\Codex & Github\\uk-central-wholesale\\Go Live Files\\Edited\\Stock Import\\Stock Import - Client Review.xlsx",
+  "sheets": [
+    "Client review",
+    "Excluded"
+  ],
+  "review_lines": 11,
+  "review_total": "293.33",
+  "excluded_quantity": 15,
+  "responses_preserved": true,
+  "sha256": "cf17dd9751a369e1035fea6febbafefd64f8c254a6375deea62dd40c6862c792"
+}

@@ -1,0 +1,142 @@
+{
+  "source_file": "D:\\Atliis Files\\Codex & Github\\uk-central-wholesale\\Go Live Files\\Client Supplied\\Quant (stock.quant) (1).xlsx",
+  "source_sha256": "675ffeaebbe715955a79d80e7c34e3fbd03501eba64e1992e58fa714c4c4e417",
+  "ready_lines": 467,
+  "ready_unique_codes": 467,
+  "export_rows": 468,
+  "export_unique_codes": 468,
+  "exact_quantity_matches": 467,
+  "ready_total": "7318.17",
+  "export_quantity_total": "7318.17",
+  "matched_export_total": "7318.17",
+  "missing": [],
+  "extra": {
+    "1010484": [
+      {
+        "row": 2,
+        "product": "[1010484] Jacobs Cream Crackers 12x300g",
+        "quantity": "0",
+        "counted": "0",
+        "difference": "0",
+        "unit": "Units",
+        "scheduled": "2026-11-02 00:00:00",
+        "assigned": null,
+        "code": "1010484",
+        "name": "Jacobs Cream Crackers 12x300g"
+      }
+    ]
+  },
+  "duplicates": {},
+  "mismatches": [],
+  "source_mismatches": [],
+  "fractional": [
+    {
+      "code": "CCN85",
+      "expected": "26.1",
+      "export": [
+        {
+          "row": 146,
+          "product": "[CCN85] Cadbury Caramel Nibbles 10x85g",
+          "quantity": "26.1",
+          "counted": "0",
+          "difference": "0",
+          "unit": "Units",
+          "scheduled": "2026-12-31 00:00:00",
+          "assigned": null,
+          "code": "CCN85",
+          "name": "Cadbury Caramel Nibbles 10x85g"
+        }
+      ]
+    },
+    {
+      "code": "GB17",
+      "expected": "21.07",
+      "export": [
+        {
+          "row": 221,
+          "product": "[GB17] Mars Galaxy Ripple 29x3pk",
+          "quantity": "21.07",
+          "counted": "0",
+          "difference": "0",
+          "unit": "Units",
+          "scheduled": "2026-12-31 00:00:00",
+          "assigned": null,
+          "code": "GB17",
+          "name": "Mars Galaxy Ripple 29x3pk"
+        }
+      ]
+    },
+    {
+      "code": "WA25",
+      "expected": "15.5",
+      "export": [
+        {
+          "row": 432,
+          "product": "[WA25] Smiths BACON FRIES 48x24g",
+          "quantity": "15.5",
+          "counted": "0",
+          "difference": "0",
+          "unit": "Units",
+          "scheduled": "2026-12-31 00:00:00",
+          "assigned": null,
+          "code": "WA25",
+          "name": "Smiths BACON FRIES 48x24g"
+        }
+      ]
+    },
+    {
+      "code": "ZFJ800",
+      "expected": "10.75",
+      "export": [
+        {
+          "row": 466,
+          "product": "[ZFJ800] Zoflora Sweet Freesia & Jasmine Bathroom Trigger Spray 8x800ml - NEW PRODUCT",
+          "quantity": "10.75",
+          "counted": "0",
+          "difference": "0",
+          "unit": "Units",
+          "scheduled": "2026-12-31 00:00:00",
+          "assigned": null,
+          "code": "ZFJ800",
+          "name": "Zoflora Sweet Freesia & Jasmine Bathroom Trigger Spray 8x800ml - NEW PRODUCT"
+        }
+      ]
+    },
+    {
+      "code": "ZGL800",
+      "expected": "4.75",
+      "export": [
+        {
+          "row": 468,
+          "product": "[ZGL800] Zoflora Caribbean Grapefruit & Lime Bathroom Trigger Spray 8x800ml - NEW PRODUCT",
+          "quantity": "4.75",
+          "counted": "0",
+          "difference": "0",
+          "unit": "Units",
+          "scheduled": "2026-12-31 00:00:00",
+          "assigned": null,
+          "code": "ZGL800",
+          "name": "Zoflora Caribbean Grapefruit & Lime Bathroom Trigger Spray 8x800ml - NEW PRODUCT"
+        }
+      ]
+    }
+  ],
+  "held_seen": {},
+  "excluded_seen": [],
+  "unparsed": [],
+  "counted_values": {
+    "0": 468
+  },
+  "difference_values": {
+    "0": 468
+  },
+  "units": {
+    "Units": 468
+  },
+  "scheduled": {
+    "2026-11-02 00:00:00": 1,
+    "2026-12-31 00:00:00": 467
+  },
+  "zero_expected": [],
+  "negative_quantities": []
+}

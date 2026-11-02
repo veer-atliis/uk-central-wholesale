@@ -99,8 +99,25 @@ A short support note is sufficient for a small request. Use more detailed design
 
 When investigating Odoo, distinguish defects from configuration, customisation, data, access, user-action, and process issues. Record the evidence supporting the diagnosis and any uncertainty.
 
+## Work Logging
+
+When Veer asks to summarise completed work or log hours, output a concise message ready to copy and paste to another assistant to update the tracking sheet. Use this format:
+
+```text
+I've just done [X hours and Y minutes] on Nitin's Odoo system. Please update the sheet for the payable hours being tracked.
+
+Summarise what I've done below as the description...
+- [Key task/deliverable completed]
+- [Key issue, blocker, or observation found]
+- [Next step or pending action item]
+```
+
+Use the time supplied by Veer; do not invent hours. If the time is missing, ask for it or leave the time placeholder clearly marked. Keep the bullets concise and based on the available work record, distinguishing completed work from pending actions.
+
 ## Evidence and System Context
 
+- **Odoo Online subscription/database snapshot as at 2026-11-03:** read [the dated subscription record](Business%20Context/2026-11-03%20-%20Odoo%20Online%20subscription%20and%20database%20snapshot.md) for version, plan, hosting regions and subscription context. Veer's supplied screen shows **saas-19.4**, Custom plan, 3 users, yearly subscription and expiry 3 September 2027. This corrects the earlier description of the current database as Odoo 20. Treat it as dated evidence and recheck the version when task-critical. Do not retain the licence key or copy the unredacted subscription screenshot into the repository.
+- **Go-live files:** read [Go Live Files/AGENTS.md](Go%20Live%20Files/AGENTS.md) before stocktake/go-live import work. It records the source hierarchy, import state, evidence and timeline. **Veer's latest instruction on 2026-11-02 makes the Stocktake sheet in Go Live Files/Client Supplied/UK_Central_Wholesale_-_Stocktake_1_Oct_2026.xlsx the authority for stocktake products and quantities.** This supersedes his earlier choice of the _with_Last_Cost workbook, which remains cost context only. Preserve supplied files, retain original numbers without conversion or rounding, and document approved changes separately. The effective quantity cut-off and counted units remain unconfirmed.
 - **Inventory settings baseline as at 2026-10-20 (Australia/Perth):** read [the dated Inventory settings snapshot](Business%20Context/2026-10-20%20-%20Odoo%20Inventory%20settings.md) before inventory, stocktake or related configuration work. It includes the original screenshot and all visible settings.
 - In that snapshot, Variants, Units of Measure & Packagings, Barcode Scanner, Landed Costs and Dropshipping are enabled. Lots & Serial Numbers, Packages, Consignment, Storage Locations and Multi-Step Routes are disabled. Annual Inventory Date is 31 December.
 - These settings were supplied as current **on 2026-10-20**, not verified as current indefinitely. Use the dated record as the last documented baseline, check task-critical settings when needed, and retain dated evidence of later changes. Do not infer an Odoo version, actual stock locations, packaging conversions or import identifiers from the settings screenshot.

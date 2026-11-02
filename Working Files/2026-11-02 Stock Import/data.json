@@ -1,0 +1,3551 @@
+{
+  "source": "D:\\Atliis Files\\Codex & Github\\uk-central-wholesale\\Go Live Files\\Client Supplied\\UK_Central_Wholesale_-_Stocktake_1_Oct_2026.xlsx",
+  "sourceSha256": "bb5e3ad3e0b0a12eea0b3f4273bbfbc383ef8fff2cae6d9d5d81a31022bd9230",
+  "lookupSource": "D:\\Atliis Files\\Codex & Github\\uk-central-wholesale\\Go Live Files\\Edited\\UK_Central_Wholesale_Stocktake_with_Last_Cost.xlsx",
+  "lookupSourceSha256": "293e8e1ed0d9d19a2f5313bd1f34b94ddd818dc14acbb6cc79f1154479775f80",
+  "productUpdates": [
+    {
+      "code": "1023966",
+      "name": "**GALAXY BLOCK 17X360G",
+      "externalId": "__export__.product_template_2446_c565a8f6",
+      "templateId": "2446",
+      "cost": 118.42,
+      "sourceRow": 2,
+      "sourceFile": "D:\\Atliis Files\\Codex & Github\\uk-central-wholesale\\Go Live Files\\Client Supplied\\Product (product.template) (2).xlsx",
+      "suppliedDate": "2026-11-02"
+    }
+  ],
+  "productUpdateSourceSha256": "87b6e79ef40fbd89a215b98bf34972a41fb06a790a6138a69f7c36558d6fe9cf",
+  "ready": [
+    [
+      "1023536",
+      "BARRATT MILK BOTTLE 12X150G",
+      null,
+      11,
+      null
+    ],
+    [
+      "1023966",
+      "**GALAXY BLOCK 17X360G",
+      null,
+      2,
+      null
+    ],
+    [
+      "1037650",
+      "**TAYLORS DECAF TEA BAGS 5X80S",
+      null,
+      1,
+      null
+    ],
+    [
+      "1046873",
+      "**BRANSTON SMALL CHUNK 6X360G",
+      null,
+      31,
+      null
+    ],
+    [
+      "1046877",
+      "**BRANSTON PICKLE ORIG 6X360G",
+      null,
+      36,
+      null
+    ],
+    [
+      "1047764",
+      "**LEVI ROOT REGGAE SAUCE 6X290",
+      null,
+      6,
+      null
+    ],
+    [
+      "1063406",
+      "LUCOZADE ENERGY ORIG 24X380ML",
+      null,
+      91,
+      null
+    ],
+    [
+      "1063438",
+      "LUCOZADE ENERGY ORANGE 24X380",
+      null,
+      91,
+      null
+    ],
+    [
+      "1071213",
+      "COLMANS BREAD SAUCE 16X40G",
+      null,
+      22,
+      null
+    ],
+    [
+      "1075764",
+      "**PG TIPS TEABAGS 12X40S",
+      null,
+      8,
+      null
+    ],
+    [
+      "1077124",
+      "MILKYWAY MAGIC STARS 12X100G",
+      null,
+      20,
+      null
+    ],
+    [
+      "161860",
+      "**CAD BUTTONS 18X4PK",
+      null,
+      8,
+      null
+    ],
+    [
+      "214651",
+      "VIAKAL ORIGINAL SPRAY 10X500ML",
+      null,
+      4,
+      null
+    ],
+    [
+      "233164",
+      "CADBURY FLAKE 4PK 20X4X80G",
+      null,
+      8,
+      null
+    ],
+    [
+      "247751",
+      "LENOR SPRING DRYER SHEET 12X34",
+      null,
+      4,
+      null
+    ],
+    [
+      "247769",
+      "LENOR T/DRYER SHT SUMMER 12X34",
+      null,
+      4,
+      null
+    ],
+    [
+      "309518",
+      "BUBS BIG SOUR SKULLS 3.2KG",
+      null,
+      5,
+      null
+    ],
+    [
+      "309520",
+      "BUBS TUTTI FRUTTI ROMB 2.6KG",
+      null,
+      5,
+      null
+    ],
+    [
+      "309522",
+      "BUBS BANANA & CARAMEL 2.8KG",
+      null,
+      5,
+      null
+    ],
+    [
+      "317610",
+      "STOCKLEYS PINEAPPLE CUBES 3KG",
+      null,
+      20,
+      null
+    ],
+    [
+      "319255",
+      "BUBS RASP LIQ SKULLS 2.8KG",
+      null,
+      3,
+      null
+    ],
+    [
+      "392184",
+      "VIAKAL ANTI/BAC SPRAY 10X500ML",
+      null,
+      4,
+      null
+    ],
+    [
+      "392530",
+      "LENOR CREASE RELEASE S/A 5x500",
+      null,
+      4,
+      null
+    ],
+    [
+      "400002",
+      "**ZOFLORA FRESH LINEN 12X500ML",
+      null,
+      32,
+      null
+    ],
+    [
+      "417891",
+      "LENOR CREASE  S/BREEZE 5X500ML",
+      null,
+      4,
+      null
+    ],
+    [
+      "43901",
+      "OPIES PICKLED WALNUTS 6X390G",
+      null,
+      7,
+      null
+    ],
+    [
+      "43906",
+      "OPIE STEM GINGER 6X280G",
+      null,
+      8,
+      null
+    ],
+    [
+      "449084",
+      "LENOR CREASE EXOTIC 5X500ML",
+      null,
+      4,
+      null
+    ],
+    [
+      "457277",
+      "FLASH SPRAY KITCHEN 10X800ML",
+      null,
+      4,
+      null
+    ],
+    [
+      "459132",
+      "FLASH SPRAY BLEACH 10X800ML",
+      null,
+      4,
+      null
+    ],
+    [
+      "459158",
+      "FLASH SPRAY BATHROOM 10X800ML",
+      null,
+      4,
+      null
+    ],
+    [
+      "481870",
+      "CIF WASHROOM SPRAY 6X750ML",
+      null,
+      4,
+      null
+    ],
+    [
+      "481888",
+      "CIF ALL PURP CLEAN LEMON 2X5L",
+      null,
+      4,
+      null
+    ],
+    [
+      "481896",
+      "CIF GLASS/MULTI SPRAY 6X750ML",
+      null,
+      4,
+      null
+    ],
+    [
+      "481903",
+      "CIF SPRAY STAINLESS 6X750ML",
+      null,
+      4,
+      null
+    ],
+    [
+      "490805",
+      "LENOR IRON WATER SUMMER 6X1L",
+      null,
+      4,
+      null
+    ],
+    [
+      "490871",
+      "LENOR CREASE RUBY JAS 5X500ML",
+      null,
+      4,
+      null
+    ],
+    [
+      "490920",
+      "LENOR IRON WATER SPRING 6X1L",
+      null,
+      4,
+      null
+    ],
+    [
+      "498271",
+      "LENOR F/CON OCEAN MIST 6X1.65L",
+      null,
+      4,
+      null
+    ],
+    [
+      "4A019",
+      "OPIE RED COCK CHERRY 6X225G",
+      null,
+      6,
+      null
+    ],
+    [
+      "514797",
+      "COMFORT VAPOURESSE F/SKY 10X1L",
+      null,
+      4,
+      null
+    ],
+    [
+      "517328",
+      "LENOR F/CON SPRING 43W 6X1.42L",
+      null,
+      12,
+      null
+    ],
+    [
+      "540329",
+      "FLASH LIQ ALL PURP LEMON 6X1L",
+      null,
+      4,
+      null
+    ],
+    [
+      "540337",
+      "FLASH LIQ ALL PURP PET 6X1L",
+      null,
+      4,
+      null
+    ],
+    [
+      "540353",
+      "FLASH LIQ ALL PURP WOOD 6X1L",
+      null,
+      4,
+      null
+    ],
+    [
+      "540428",
+      "FLASH LIQ APPLE BLOSSOM 6X1L",
+      null,
+      4,
+      null
+    ],
+    [
+      "540460",
+      "BOLD 3IN1 PODS SPRING 4X13CT",
+      null,
+      4,
+      null
+    ],
+    [
+      "540527",
+      "LENOR OUTDOOR N/SOLST 8X630ML",
+      null,
+      4,
+      null
+    ],
+    [
+      "544024",
+      "PERSIL ULT LIQ COMFORT 5X1.24L",
+      null,
+      4,
+      null
+    ],
+    [
+      "545783",
+      "COMFORT F/CON SUNSHINY 8X930ML",
+      null,
+      4,
+      null
+    ],
+    [
+      "545791",
+      "COMFORT F/CON PURE 31W 8X930ML",
+      null,
+      4,
+      null
+    ],
+    [
+      "547929",
+      "ARIEL STAIN GEL COLOUR 6X800ML",
+      null,
+      4,
+      null
+    ],
+    [
+      "547953",
+      "ARIEL STAIN GEL WHITE 6X800ML",
+      null,
+      4,
+      null
+    ],
+    [
+      "558645",
+      "PERSIL ULT LIQ ACTIVE 5X1.24L",
+      null,
+      4,
+      null
+    ],
+    [
+      "558679",
+      "FEBREZE UNSTOPPABLE 8X500ML",
+      null,
+      4,
+      null
+    ],
+    [
+      "558687",
+      "FEBREZE PET FRESH 8X500ML",
+      null,
+      4,
+      null
+    ],
+    [
+      "558695",
+      "FEBREZE COTTON FRESH 8X500ML",
+      null,
+      4,
+      null
+    ],
+    [
+      "558736",
+      "FEBREZE FRESH LINEN 8X500ML",
+      null,
+      4,
+      null
+    ],
+    [
+      "561218",
+      "CIF MULTI SPRAY AURORA 6X750ML",
+      null,
+      4,
+      null
+    ],
+    [
+      "568264",
+      "**BASSETTS MURRAY MINT 12X162G",
+      null,
+      22,
+      null
+    ],
+    [
+      "568305",
+      "**MAYNARDS WINE GUMS 10X110G",
+      null,
+      24,
+      null
+    ],
+    [
+      "568793",
+      "ZOFLORA WINTER SPICE 12X500ML",
+      null,
+      6,
+      null
+    ],
+    [
+      "570780",
+      "LENOR OUTDOOR CAPRI 8X742ML",
+      null,
+      4,
+      null
+    ],
+    [
+      "571259",
+      "FEBREZE SPRING AWAKEN 8X500ML",
+      null,
+      4,
+      null
+    ],
+    [
+      "572231",
+      "ZOFLORA MANDARIN LIME 12X250ML",
+      null,
+      10,
+      null
+    ],
+    [
+      "572653",
+      "ARIEL PLAT STAIN PODS 3X50S",
+      null,
+      4,
+      null
+    ],
+    [
+      "572687",
+      "ARIEL PLAT FEBREZE PODS 3X50S",
+      null,
+      4,
+      null
+    ],
+    [
+      "577463",
+      "LENOR OUTDOOR 1ST SPRING 8X630",
+      null,
+      4,
+      null
+    ],
+    [
+      "577512",
+      "LENOR F/CON COASTAL 6X1.488L",
+      null,
+      4,
+      null
+    ],
+    [
+      "577520",
+      "LENOR F/CON EXOTIC AMB 6X1.49L",
+      null,
+      2,
+      null
+    ],
+    [
+      "577538",
+      "LENOR F/CON JASMINE 6X1.488L",
+      null,
+      2,
+      null
+    ],
+    [
+      "577570",
+      "LENOR F/CON GOLD ORCH 6X1.49L",
+      null,
+      4,
+      null
+    ],
+    [
+      "577653",
+      "LENOR OUTDOOR CORFU 8X700ML",
+      null,
+      4,
+      null
+    ],
+    [
+      "577679",
+      "LENOR OUTDOOR SANTORINI 8X700",
+      null,
+      4,
+      null
+    ],
+    [
+      "578329",
+      "ARIEL LIQ ORIGINAL 43W 4X1.33L",
+      null,
+      4,
+      null
+    ],
+    [
+      "578505",
+      "PERSIL ULT LIQ FRESH 6X837ML",
+      null,
+      4,
+      null
+    ],
+    [
+      "579369",
+      "PERSIL CAPSULES BIO 3X34S",
+      null,
+      4,
+      null
+    ],
+    [
+      "579377",
+      "PERSIL CAPSULES COLOUR 3X34S",
+      null,
+      4,
+      null
+    ],
+    [
+      "579385",
+      "PERSIL CAPSULES NON BIO 3X34S",
+      null,
+      4,
+      null
+    ],
+    [
+      "580897",
+      "BOLD PODS SPRING AWAK 3X60CT",
+      null,
+      4,
+      null
+    ],
+    [
+      "580945",
+      "LENOR F/CON SUMMER 43W 6X1.42L",
+      null,
+      4,
+      null
+    ],
+    [
+      "581537",
+      "COMFORT CREAT COTSWOLD 6X1.4L",
+      null,
+      4,
+      null
+    ],
+    [
+      "583873",
+      "*McVITIES JAMMY RASP 18X136.5G",
+      null,
+      38,
+      null
+    ],
+    [
+      "583889",
+      "**McVITI JAMMY APPLE 18X136.5G",
+      null,
+      38,
+      null
+    ],
+    [
+      "584201",
+      "BOLD LIQ LAV/CHAM 57W 4X1.767L",
+      null,
+      4,
+      null
+    ],
+    [
+      "584345",
+      "ZOFLORA COUNTRY GARDEN 12X120",
+      null,
+      10,
+      null
+    ],
+    [
+      "701111",
+      "TERRYS MINT CRISP MINIS 10X80G",
+      null,
+      4,
+      null
+    ],
+    [
+      "701158",
+      "CADBURY BISCOFF BAR 14X350G",
+      null,
+      1,
+      null
+    ],
+    [
+      "78161",
+      "WALKERS OLDE ENG TOFFEE 2.5KG",
+      null,
+      12,
+      null
+    ],
+    [
+      "AB02",
+      "BARRATTS ANGLO BUBBLY 240S",
+      null,
+      3,
+      null
+    ],
+    [
+      "AB04",
+      "K/WAY ANISEED BALLS 3KG",
+      null,
+      12,
+      null
+    ],
+    [
+      "AB07",
+      "**K/WAY APPLE BON BON 3KG",
+      null,
+      1,
+      null
+    ],
+    [
+      "AD01",
+      "ROSS AFTER MINTS JAR 2.25KG",
+      null,
+      1,
+      null
+    ],
+    [
+      "AL01",
+      "K/WAY ABC LETTERS 2KG",
+      null,
+      19,
+      null
+    ],
+    [
+      "AM25",
+      "ASSORTED FIZZY MIX 2.5KG",
+      null,
+      2,
+      null
+    ],
+    [
+      "AN02",
+      "R/C ALLSORT NOUGAT 16X130G",
+      null,
+      3,
+      null
+    ],
+    [
+      "AP03",
+      "**NESTLE AERO MILK 15X90G",
+      null,
+      8,
+      null
+    ],
+    [
+      "AR03",
+      "WALKERS ASST ROYALS 2.5KG",
+      null,
+      16,
+      null
+    ],
+    [
+      "AR04",
+      "WALKERS ASST ROYALS 12X150G",
+      null,
+      8,
+      null
+    ],
+    [
+      "BAJ350",
+      "ABBEYFARM B/BERY APP JAM 6X350",
+      null,
+      6,
+      null
+    ],
+    [
+      "BB02",
+      "KINGSWAY BUMPER BANANA 2KG",
+      null,
+      2,
+      null
+    ],
+    [
+      "BB13",
+      "BASSETTS BASSETTI LIQUORICE 75",
+      null,
+      1,
+      null
+    ],
+    [
+      "BB20",
+      "**CAD BOURNVILLE 18X100G",
+      null,
+      3,
+      null
+    ],
+    [
+      "BCB140",
+      "**WERTHERS CARAMEL BITES 8X140",
+      null,
+      2,
+      null
+    ],
+    [
+      "BCH100",
+      "**B/VILLE C/MEL H/NUT 18X100",
+      null,
+      4,
+      null
+    ],
+    [
+      "BCP360",
+      "**BRAN CHILLI PICCALILLI 6X360",
+      null,
+      17,
+      null
+    ],
+    [
+      "BDB26",
+      "BUBS DIZZY B/GUM SKULLS 2.6KG",
+      null,
+      3,
+      null
+    ],
+    [
+      "BHB45",
+      "** BIG HOOPS BBQ BEEF 36X45G",
+      null,
+      53,
+      null
+    ],
+    [
+      "BHO45",
+      "HH BIG HOOPS ORIGINAL 36X45G",
+      null,
+      30,
+      null
+    ],
+    [
+      "BHSV45",
+      "HH BIG HOOPS SALT & VIN 36X45G",
+      null,
+      20,
+      null
+    ],
+    [
+      "BJ175",
+      "BLACK JACKS 13X175G",
+      null,
+      5,
+      null
+    ],
+    [
+      "BJ400",
+      "BARRATT BLACK JACKS 400PC",
+      null,
+      1,
+      null
+    ],
+    [
+      "BL012",
+      "BOALAND KIMBERLEY 18X300G",
+      null,
+      8,
+      null
+    ],
+    [
+      "BL253",
+      "**JACOBS MIKADO CHOC 18X176G",
+      null,
+      10,
+      null
+    ],
+    [
+      "BM001",
+      "*BALLYMALOE CTRY RELISH 12X310",
+      null,
+      40,
+      null
+    ],
+    [
+      "BM01",
+      "MILLIONS BUBBLEGUM 12S",
+      null,
+      17,
+      null
+    ],
+    [
+      "BM09",
+      "K/W BEACH MIX 3KG",
+      null,
+      5,
+      null
+    ],
+    [
+      "BN130",
+      "RCC BUBBLEGUM NOUGAT 16X130G",
+      null,
+      7,
+      null
+    ],
+    [
+      "BP360",
+      "**BRANSTON PICCALILLI 6x360g",
+      null,
+      1,
+      null
+    ],
+    [
+      "BR04",
+      "**K/WAY BON BON SOUR BLUE 3KG",
+      null,
+      20,
+      null
+    ],
+    [
+      "BR10",
+      "K/WAY BLACK/RASP BERRIES 3KG",
+      null,
+      5,
+      null
+    ],
+    [
+      "BR266",
+      "BLUE RIBAND MILK 26X6PK",
+      null,
+      6,
+      null
+    ],
+    [
+      "BRF245",
+      "*BRANSTON RICH & FRUITY 12X245",
+      null,
+      27,
+      null
+    ],
+    [
+      "BRH266",
+      "BLUE RIBAND HAZELNUT 26X6PK",
+      null,
+      10,
+      null
+    ],
+    [
+      "BRW266",
+      "BLUE RIBAND WHITE 26X6PK",
+      null,
+      5,
+      null
+    ],
+    [
+      "BS02",
+      "**BARRS DAND/BURDOCK 24X330",
+      null,
+      37,
+      null
+    ],
+    [
+      "BS05",
+      "**SWIZZLE BUTTERSCOTCH 3KG",
+      null,
+      8,
+      null
+    ],
+    [
+      "BS31",
+      "*SWIZZLE BARLEY SUGAR WRAP 3KG",
+      null,
+      3,
+      null
+    ],
+    [
+      "BSC110",
+      "**B/VILLE SALTED C/MEL 18X110G",
+      null,
+      5,
+      null
+    ],
+    [
+      "BSM3",
+      "BARRATT S/BERRY M/SHAKE BOT 3K",
+      null,
+      1,
+      null
+    ],
+    [
+      "BSP28",
+      "BUBS W S/BERRY POM OVAL 2.8KG",
+      null,
+      5,
+      null
+    ],
+    [
+      "BT001",
+      "**BATCHELOR PROC PEAS 24X420G",
+      null,
+      22,
+      null
+    ],
+    [
+      "BT005",
+      "**BATCHELORS BEANS 24X420G",
+      null,
+      10,
+      null
+    ],
+    [
+      "BT01",
+      "**BARRYS TEA GOLD 6X250G (80S)",
+      null,
+      80,
+      null
+    ],
+    [
+      "BT02",
+      "*BARRYS IRISH TEA 6X250G (80S)",
+      null,
+      28,
+      null
+    ],
+    [
+      "CB02",
+      "K/WAY COLA BOTTLES 3KG",
+      null,
+      29,
+      null
+    ],
+    [
+      "CB03",
+      "K/WAY FIZZY COLA BOTTLES 3KG",
+      null,
+      3,
+      null
+    ],
+    [
+      "CB04",
+      "HARIBO GIANT COLA BOTTLE 3KG",
+      null,
+      4,
+      null
+    ],
+    [
+      "CB07",
+      "K/WAY FIZ CHERRY COLA BOTL 3KG",
+      null,
+      5,
+      null
+    ],
+    [
+      "CB12X4",
+      "**CADBURY BOOST 12X4PK",
+      null,
+      23,
+      null
+    ],
+    [
+      "CB26",
+      "JUMBO FIZZ CHERRY COLA BOT 3KG",
+      null,
+      14,
+      null
+    ],
+    [
+      "CBW1085",
+      "**CADURY BITSA WISPA 10X85G",
+      null,
+      27,
+      null
+    ],
+    [
+      "CC005",
+      "**CLUB ORANGE 8X1.75ltr",
+      null,
+      10,
+      null
+    ],
+    [
+      "CCN85",
+      "**CAD CARAMEL NIBBLES 10X85G",
+      null,
+      26.1,
+      null
+    ],
+    [
+      "CCS3",
+      "BUBS COOL COLA SKULL 3KG",
+      null,
+      3,
+      null
+    ],
+    [
+      "CCSL90",
+      "CHUPA CHUP S/BERRY LACES 18X90",
+      null,
+      17,
+      null
+    ],
+    [
+      "CD02",
+      "CADBURY CARAMEL 48X45G",
+      null,
+      42,
+      null
+    ],
+    [
+      "CE08",
+      "WALKERS CREAMY TOFFEE 12X150",
+      null,
+      3,
+      null
+    ],
+    [
+      "CE130",
+      "**CAD CHOC ECLAIRS 12X130G",
+      null,
+      1,
+      null
+    ],
+    [
+      "CFF204",
+      "**CADBURY FUDGE 20X4PK",
+      null,
+      1,
+      null
+    ],
+    [
+      "CGB85",
+      "**CAD GIANT BUTTONS 10X85G",
+      null,
+      99,
+      null
+    ],
+    [
+      "CI03",
+      "R/C COCONUT ICE 16X130G",
+      null,
+      2,
+      null
+    ],
+    [
+      "CK01",
+      "**CHERRY COKE 24X330ML",
+      null,
+      90,
+      null
+    ],
+    [
+      "CK11",
+      "**BOLAND CHOC KIMBERLY 20X132G",
+      null,
+      8,
+      null
+    ],
+    [
+      "CL01",
+      "SQUIRREL CHERRY LIPS JAR 2.25K",
+      null,
+      33,
+      null
+    ],
+    [
+      "CL07S",
+      "**CLUB LEMON S/LINE 24X330ML",
+      null,
+      50,
+      null
+    ],
+    [
+      "CM01",
+      "MILLIONS COLA 12S",
+      null,
+      3,
+      null
+    ],
+    [
+      "CM11",
+      "R/C CHOC MINT NOUGAT 16X130G",
+      null,
+      3,
+      null
+    ],
+    [
+      "CO02",
+      "**TERRY CHOC ORANGE 16X3PK",
+      null,
+      1,
+      null
+    ],
+    [
+      "CS01",
+      "**CHEF KETCHUP SQUEEZY 12X390G",
+      null,
+      24,
+      null
+    ],
+    [
+      "CS03",
+      "**CHEF SAUCE BROWN SQZ 12X385G",
+      null,
+      40,
+      null
+    ],
+    [
+      "CS15",
+      "CAPRI SUN ORANGE4X8PK",
+      null,
+      54,
+      null
+    ],
+    [
+      "CS19",
+      "K/WAY CHERRY STICKS 2kg",
+      null,
+      2,
+      null
+    ],
+    [
+      "CS22",
+      "**CADBURY STAR BAR 32X49G",
+      null,
+      1,
+      null
+    ],
+    [
+      "CSB40",
+      "**McD SPICE BAG CHINESE 12x40g",
+      null,
+      30,
+      null
+    ],
+    [
+      "CSS40",
+      "**CAD SNACK SHORTCAKE 36X40G",
+      null,
+      20,
+      null
+    ],
+    [
+      "CWS85",
+      "** CURLYWURLY SQUIRLIES 10X85",
+      null,
+      25,
+      null
+    ],
+    [
+      "DB08",
+      "**DAIM BAR 24X3PK",
+      null,
+      2,
+      null
+    ],
+    [
+      "DCH44",
+      "**DORITO CHILLI HEATWAVE 32X44",
+      null,
+      20,
+      null
+    ],
+    [
+      "DD02",
+      "**BARRATTS DIB DAB 50X23G",
+      null,
+      16,
+      null
+    ],
+    [
+      "DD023",
+      "**CAD DOUBLE DECKER 48X54.5G",
+      null,
+      6,
+      null
+    ],
+    [
+      "DD05",
+      "CADBURY DOUBLE DECKER 8X4PK",
+      null,
+      5,
+      null
+    ],
+    [
+      "DI02",
+      "**DISCOS CHEESE & ONION 28X50G",
+      null,
+      10,
+      null
+    ],
+    [
+      "DI04",
+      "**DISCOS SALT & VINEGAR 28X50G",
+      null,
+      10,
+      null
+    ],
+    [
+      "DL130",
+      "SWIZZEL DOUBLE LOLLIES 12X130G",
+      null,
+      9,
+      null
+    ],
+    [
+      "DM01",
+      "**CADBURY FRUIT & NUT 22X95G",
+      null,
+      42,
+      null
+    ],
+    [
+      "DM02",
+      "K/WAY DOLLY MIXTURE 3KG",
+      null,
+      12,
+      null
+    ],
+    [
+      "DM05",
+      "DAIRY MILK FRUIT NUT 48X49G",
+      null,
+      22,
+      null
+    ],
+    [
+      "DM07",
+      "**CADBURY DAIRY MILK 22X95G",
+      null,
+      29,
+      null
+    ],
+    [
+      "DM08",
+      "DAIRY MILK STANDARD 48X45G",
+      null,
+      18,
+      null
+    ],
+    [
+      "DM12",
+      "CADBURY WHOLENUT 48X45G",
+      null,
+      6,
+      null
+    ],
+    [
+      "DM150",
+      "BARRATT DOLLY MIXTURES 12X150G",
+      null,
+      12,
+      null
+    ],
+    [
+      "DM20",
+      "**CADBURY DAIRY MILK 14X4PK",
+      null,
+      30,
+      null
+    ],
+    [
+      "DM21",
+      "**CADBURY CHOP HAZELNUT 22X95G",
+      null,
+      21,
+      null
+    ],
+    [
+      "DMC120",
+      "**CDM CARAMEL 16X120G",
+      null,
+      26,
+      null
+    ],
+    [
+      "DR03",
+      "**DR PEPPER 24X330ML",
+      null,
+      164,
+      null
+    ],
+    [
+      "DSW1",
+      "DAMEL STRAWBERRY WHEELS 1KG",
+      null,
+      8,
+      null
+    ],
+    [
+      "EC01",
+      "ROSS'S EDIN/CASTLE ROCK 72S",
+      null,
+      9,
+      null
+    ],
+    [
+      "EC06",
+      "**ECR HIGHLAND COO 24X6PK",
+      null,
+      5,
+      null
+    ],
+    [
+      "ER019",
+      "**ERIN COUNTRY VEG SOUP 30X75G",
+      null,
+      10,
+      null
+    ],
+    [
+      "ER060",
+      "ERIN IRISH COUNTRY STEW 24X39G",
+      null,
+      14,
+      null
+    ],
+    [
+      "FB02",
+      "K/WAY FIZ BUBBLEGUM BOTTLE 3KG",
+      null,
+      21,
+      null
+    ],
+    [
+      "FB06",
+      "K/WAY JUMBO FIZ BUB/BOTTLE 3KG",
+      null,
+      47,
+      null
+    ],
+    [
+      "FC16",
+      "FRYS CHOCOLATE CREAM 16X3",
+      null,
+      20,
+      null
+    ],
+    [
+      "FE01",
+      "K/WAY FRIED EGGS 3KG",
+      null,
+      16,
+      null
+    ],
+    [
+      "FF08",
+      "K/WAY FUNKY FRUITS 3KG",
+      null,
+      3,
+      null
+    ],
+    [
+      "FF10",
+      "**FANTA FRUIT TWIST 24X330ML",
+      null,
+      11,
+      null
+    ],
+    [
+      "FG01",
+      "SQUIRREL FLORAL GUMS JAR 2.25K",
+      null,
+      18,
+      null
+    ],
+    [
+      "FG12",
+      "ROWNTREE FRUIT GUM 10X120G",
+      null,
+      60,
+      null
+    ],
+    [
+      "FI01",
+      "REAL CANDY FUDGE ICE 16x130G",
+      null,
+      1,
+      null
+    ],
+    [
+      "FJ20",
+      "K/WAY FRUIT JELLYS 3KG",
+      null,
+      1,
+      null
+    ],
+    [
+      "FN01",
+      "R/C FRUITY NOUGAT 16X130G",
+      null,
+      4,
+      null
+    ],
+    [
+      "FO16",
+      "FRY'S ORANGE CREAM 16x3pk",
+      null,
+      24,
+      null
+    ],
+    [
+      "FP114",
+      "ROWNTREE FRUIT PASTILLE 10X114",
+      null,
+      38,
+      null
+    ],
+    [
+      "FP163",
+      "FRYS PEPPERMINT CREAM 16X3PK",
+      null,
+      24,
+      null
+    ],
+    [
+      "FP20",
+      "K/WAY FIZZY PEACHS 3KG",
+      null,
+      6,
+      null
+    ],
+    [
+      "FPA3",
+      "K/WAY FIZZY PINEAPPLES 3KG",
+      null,
+      6,
+      null
+    ],
+    [
+      "FPR25",
+      "K/W FIZZY PINEAPPLE RINGS 2.5K",
+      null,
+      30,
+      null
+    ],
+    [
+      "FR11",
+      "**BOLANDS FIG ROLLS 24X200G",
+      null,
+      17,
+      null
+    ],
+    [
+      "FS01",
+      "**K/WAY FLYING SAUCER CONEx21",
+      null,
+      2,
+      null
+    ],
+    [
+      "FS05",
+      "LIONS FRUIT SALAD 2KG",
+      null,
+      6,
+      null
+    ],
+    [
+      "FS09",
+      "BARRATT FOAM SHRIMPS 2KG",
+      null,
+      3,
+      null
+    ],
+    [
+      "FS175",
+      "FRUIT SALADS 13X175G",
+      null,
+      9,
+      null
+    ],
+    [
+      "FS20",
+      "K/WAY FRIENDSHIP RINGS 3KG",
+      null,
+      13,
+      null
+    ],
+    [
+      "FSB2",
+      "K/WAY FIZZY S/BERRY BITES 2KG",
+      null,
+      20,
+      null
+    ],
+    [
+      "FT02",
+      "FRYS TURKISH DELIGHT 24X3PK",
+      null,
+      13,
+      null
+    ],
+    [
+      "FTS243",
+      "FRUITELLA STRAWBERRY 24X3PK",
+      null,
+      9,
+      null
+    ],
+    [
+      "GB06",
+      "**GALAXY CARAMEL 24X135G",
+      null,
+      45,
+      null
+    ],
+    [
+      "GB17",
+      "**GALAXY RIPPLE 29X3PK",
+      null,
+      21.07,
+      null
+    ],
+    [
+      "GB21",
+      "**GALAXY LRG BLOCK 24X100G",
+      null,
+      89,
+      null
+    ],
+    [
+      "GB23",
+      "**GALAXY SALTED CARAMEL 24X135",
+      null,
+      15,
+      null
+    ],
+    [
+      "GB24",
+      "GALAXY COOKIE CRUMBLE 24X114G",
+      null,
+      12,
+      null
+    ],
+    [
+      "GC02",
+      "ROSS GINGER CREAM JAR 2.25KG",
+      null,
+      8,
+      null
+    ],
+    [
+      "GC112",
+      "GALAXY COUNTERS 15X112G",
+      null,
+      11,
+      null
+    ],
+    [
+      "GF01",
+      "**SWIZZLE GIANT FIZZERS 24S",
+      null,
+      3,
+      null
+    ],
+    [
+      "GF02",
+      "**MAXLIN GIANT FLYERS 12X75G",
+      null,
+      6,
+      null
+    ],
+    [
+      "GF04",
+      "FOXS GLACIER FRUITS 12X200G",
+      null,
+      46,
+      null
+    ],
+    [
+      "GF05",
+      "GOLDENFRY CHICKEN GRAN 6X300G",
+      null,
+      97,
+      null
+    ],
+    [
+      "GF06",
+      "GOLDENFRY BEEF GRANULES 6X300G",
+      null,
+      58,
+      null
+    ],
+    [
+      "GJ350",
+      "ABBEYFARM GOOSEBERRY JAM 6X350",
+      null,
+      8,
+      null
+    ],
+    [
+      "GM200",
+      "FOX'S GLACIER MINTS 12X200G",
+      null,
+      49,
+      null
+    ],
+    [
+      "GS01",
+      "K/WAY GIANT STRAWBERRY 3KG",
+      null,
+      2,
+      null
+    ],
+    [
+      "GS03",
+      "K/WAY STD GOBTOPPER 3KG",
+      null,
+      8,
+      null
+    ],
+    [
+      "GS04",
+      "K/WAY HUGE GLOBESTOPPERS 10S",
+      null,
+      13,
+      null
+    ],
+    [
+      "GS07",
+      "K/WAY GIANT GOBSTOPPERS 3KG",
+      null,
+      12,
+      null
+    ],
+    [
+      "GS240",
+      "**GUINNESS STEAK SAUCE 12X240G",
+      null,
+      8,
+      null
+    ],
+    [
+      "GSM4",
+      "GALAXY SMOOTH MILK 15X4PK",
+      null,
+      37,
+      null
+    ],
+    [
+      "HGS140",
+      "HARIBO GIANT STRAWBS 12X140G",
+      null,
+      36,
+      null
+    ],
+    [
+      "HH03",
+      "**HULA HOOPS ORIGINAL32X34G",
+      null,
+      13,
+      null
+    ],
+    [
+      "HH08",
+      "**HULA HOOPS BBQ 32X34G",
+      null,
+      20,
+      null
+    ],
+    [
+      "HH09",
+      "**HULA HOOPS S/VINIGAR32X34G",
+      null,
+      15,
+      null
+    ],
+    [
+      "HH11",
+      "**HULA HOOP CHEESE ONION 32X34",
+      null,
+      20,
+      null
+    ],
+    [
+      "HHC160",
+      "HARIBO HAPPY CHERRIES 12X160G",
+      null,
+      22,
+      null
+    ],
+    [
+      "HO10",
+      "HALLS ORIG EXTRA STRONG 20S",
+      null,
+      1,
+      null
+    ],
+    [
+      "HRC140",
+      "HARIBO RHUBARB & CUST 12X140G",
+      null,
+      33,
+      null
+    ],
+    [
+      "HRC3",
+      "HARIBO RHUBARB & CUSTARD 3KG",
+      null,
+      12,
+      null
+    ],
+    [
+      "HTS140",
+      "HARIBO TWIN SNAKES 12X140G",
+      null,
+      23,
+      null
+    ],
+    [
+      "HYB3",
+      "HARIBO YELLOW BELLIES 3KG",
+      null,
+      26,
+      null
+    ],
+    [
+      "IB01",
+      "**BARRS IRN BRU 24X330ML",
+      null,
+      130,
+      null
+    ],
+    [
+      "JB10110",
+      "BASSETTS JELLY BABIES 10X110G",
+      null,
+      1,
+      null
+    ],
+    [
+      "JG01",
+      "**OLD JAMA GING BEER 24X330ML",
+      null,
+      2,
+      null
+    ],
+    [
+      "JL20",
+      "K/WAY JUICY LIPS 3KG",
+      null,
+      2,
+      null
+    ],
+    [
+      "JMC73",
+      "JAKEMAN CHERRY LOZ 12X73G",
+      null,
+      5,
+      null
+    ],
+    [
+      "JMTC73",
+      "JAKEMAN THROAT & CHEST 12X73",
+      null,
+      14,
+      null
+    ],
+    [
+      "JS01",
+      "K/WAY FIZZY JELLY SNAKES 3KG",
+      null,
+      11,
+      null
+    ],
+    [
+      "JS02",
+      "KINGSWAY JELLY SHARKS 3KG",
+      null,
+      22,
+      null
+    ],
+    [
+      "JS03",
+      "K/WAY JELLY SNAKES 3KG",
+      null,
+      10,
+      null
+    ],
+    [
+      "JT03",
+      "NESTLE JELLY TOT POUCH 10X150G",
+      null,
+      11,
+      null
+    ],
+    [
+      "KD254",
+      "**CDM KIDS BAR 25X4PK (72G)",
+      null,
+      12,
+      null
+    ],
+    [
+      "KK10",
+      "**KIT KAT PEANUT BUTTER 24X42G",
+      null,
+      12,
+      null
+    ],
+    [
+      "KMBL170",
+      "K&M B/CURRANT & LIC 12X170G",
+      null,
+      8,
+      null
+    ],
+    [
+      "KMCL170",
+      "K&M CHOC LIMES 12X170G",
+      null,
+      23,
+      null
+    ],
+    [
+      "KMFS170",
+      "K&M FRUIT SHERBETS 12X170G",
+      null,
+      27,
+      null
+    ],
+    [
+      "KMMA150",
+      "K&M MINT ASSORTMENT 12X150G",
+      null,
+      4,
+      null
+    ],
+    [
+      "KMMI140",
+      "K&M MINT IMPERIALS 12X140G",
+      null,
+      5,
+      null
+    ],
+    [
+      "KMPC170",
+      "K&M PINEAPPLE CUBES 12X170G",
+      null,
+      1,
+      null
+    ],
+    [
+      "KMPD170",
+      "K&M PEAR DROPS 12X170G",
+      null,
+      20,
+      null
+    ],
+    [
+      "KMRC170",
+      "K&M RHUBARB & CUSTARD 12X170G",
+      null,
+      20,
+      null
+    ],
+    [
+      "KMSL170",
+      "K&M SHERBET LEMONS 12X170G",
+      null,
+      27,
+      null
+    ],
+    [
+      "KMTC110",
+      "K&M THROAT & CHEST LOZ 12X110G",
+      null,
+      5,
+      null
+    ],
+    [
+      "KSL3",
+      "K/WAY SHERBET LEMONS 3KG",
+      null,
+      13,
+      null
+    ],
+    [
+      "KW04",
+      "**K/WAY BON BONS TOFFEE 3KG",
+      null,
+      41,
+      null
+    ],
+    [
+      "KW05",
+      "**K/WAY BON BONS STRAWB 3KG",
+      null,
+      9,
+      null
+    ],
+    [
+      "KW06",
+      "**K/WAY BON BONS LEMON",
+      null,
+      3,
+      null
+    ],
+    [
+      "KW07",
+      "**K/WAY BON BON W/MELON 3KG",
+      null,
+      40,
+      null
+    ],
+    [
+      "KW08",
+      "**K/WAY BON BON BUBBLEGUM 3KG",
+      null,
+      20,
+      null
+    ],
+    [
+      "KW09",
+      "**KINGSWAY CHERRY BON BONS 3KG",
+      null,
+      1,
+      null
+    ],
+    [
+      "LA10110",
+      "BASSETTS LIQ ALLSORTS 10X110G",
+      null,
+      1,
+      null
+    ],
+    [
+      "LB11",
+      "**LION BAR 10X4PK (120G)",
+      null,
+      12,
+      null
+    ],
+    [
+      "LC01",
+      "K/WAY LIQUORICE CREAM ROCK 3KG",
+      null,
+      1,
+      null
+    ],
+    [
+      "LC02",
+      "K/WAY LIQUORICE COMFITS 3KG",
+      null,
+      25,
+      null
+    ],
+    [
+      "LFP130",
+      "LION FRUIT PASTILLES 12X130G",
+      null,
+      12,
+      null
+    ],
+    [
+      "LFS130",
+      "LION FRUIT SALAD 12X130G",
+      null,
+      15,
+      null
+    ],
+    [
+      "LH05",
+      "**SWIZZLE GIANT LOVEHEARTS 24S",
+      null,
+      13,
+      null
+    ],
+    [
+      "LH06",
+      "GIANT LOVE HEARTS 12X4PK",
+      null,
+      15,
+      null
+    ],
+    [
+      "LH127",
+      "SWIZZELS LOVE HEARTS 12X127G",
+      null,
+      13,
+      null
+    ],
+    [
+      "LSA43",
+      "**LENOR SPRING AWAKENING 6X43W",
+      null,
+      5,
+      null
+    ],
+    [
+      "LSO500",
+      "**LUCOZADE SPORT ORANGE 24X500",
+      null,
+      1,
+      null
+    ],
+    [
+      "LSR500",
+      "**LUCOZADE SPORT RASP 24X500",
+      null,
+      1,
+      null
+    ],
+    [
+      "LT01",
+      "LIONS LIQUORICE GUMS 2KG",
+      null,
+      3,
+      null
+    ],
+    [
+      "MB18",
+      "K/WAY MINI FOAM BANANA'S 2KG",
+      null,
+      3,
+      null
+    ],
+    [
+      "MB2451",
+      "MARS BAR 24X51G",
+      null,
+      8,
+      null
+    ],
+    [
+      "MB300",
+      "**McVITIES BOURBONS 12X300G",
+      null,
+      30,
+      null
+    ],
+    [
+      "MC13",
+      "**MAYFLOWER ORIG CURRY 12X255",
+      null,
+      89,
+      null
+    ],
+    [
+      "MC30",
+      "**JACOBS MINI CHEDDER 12X6PK",
+      null,
+      20,
+      null
+    ],
+    [
+      "MC31",
+      "**MINI CHED RED/LEICESTER 12X6",
+      null,
+      2,
+      null
+    ],
+    [
+      "MC33",
+      "JACOBS CRINKLYS C&O 12X6PK",
+      null,
+      10,
+      null
+    ],
+    [
+      "MD01",
+      "**SWIZZ MEGA DOUBLE LOLLY 36S",
+      null,
+      9,
+      null
+    ],
+    [
+      "MDM340",
+      "**McKAY DUNDEE MARMALADE 6X340",
+      null,
+      3,
+      null
+    ],
+    [
+      "MDT110",
+      "McCOWANS TOFFEES 12X110G",
+      null,
+      7,
+      null
+    ],
+    [
+      "MEB54",
+      "**CAD MINI EGGS BAR 48X54G",
+      null,
+      50,
+      null
+    ],
+    [
+      "MG03",
+      "LIONS MIDGET GEMS 2KG",
+      null,
+      20,
+      null
+    ],
+    [
+      "MG10110",
+      "MAYNARDS MINI GEMS 10X110G",
+      null,
+      8,
+      null
+    ],
+    [
+      "MGN250",
+      "McVITIES GINGER NUTS 12X250G",
+      null,
+      20,
+      null
+    ],
+    [
+      "MH25",
+      "MAXONS RED BULLS EYES 3.4KG",
+      null,
+      4,
+      null
+    ],
+    [
+      "MI05",
+      "K/WAY MINT IMPERIALS 3KG",
+      null,
+      1,
+      null
+    ],
+    [
+      "MI09",
+      "GALAXY MINSTRELS 12X3PK",
+      null,
+      24,
+      null
+    ],
+    [
+      "MI12",
+      "**GALAXY MINSTRELS 20X80G",
+      null,
+      62,
+      null
+    ],
+    [
+      "MM05",
+      "K/WAY B/GUM MERMAIDS 3KG",
+      null,
+      4,
+      null
+    ],
+    [
+      "MM110",
+      "**MEANIES PICKLED ONION 12X110",
+      null,
+      9,
+      null
+    ],
+    [
+      "MM140",
+      "MAOAM MAOMIX 14X140G",
+      null,
+      17,
+      null
+    ],
+    [
+      "MM27",
+      "**MONSTER MUNCH P/ONION 35X40G",
+      null,
+      44,
+      null
+    ],
+    [
+      "MM28",
+      "**MONSTER MUNCH SW&SP 35X40G",
+      null,
+      20,
+      null
+    ],
+    [
+      "MM29",
+      "**MONSTER MUNCH R/BEEF 35X40G",
+      null,
+      20,
+      null
+    ],
+    [
+      "MM30",
+      "**MONSTER MUNCH P/ONION 18X6pk",
+      null,
+      13,
+      null
+    ],
+    [
+      "MM33",
+      "**MONSTER MUNCH R/BEEF 18X6PK",
+      null,
+      4,
+      null
+    ],
+    [
+      "MOB1",
+      "*MIWADI B/CURRANT CORDIAL 12X1",
+      null,
+      6,
+      null
+    ],
+    [
+      "MOC1",
+      "**MIWADI ORANGE CORDIAL 12X1LT",
+      null,
+      12,
+      null
+    ],
+    [
+      "MS03",
+      "MILKYWAY MAGIC STARS 36X33G",
+      null,
+      2,
+      null
+    ],
+    [
+      "MT05",
+      "**MALTESER TEASER 23X100G",
+      null,
+      22,
+      null
+    ],
+    [
+      "NB02",
+      "BARRATT SOFT NOUGET 12X4PK",
+      null,
+      11,
+      null
+    ],
+    [
+      "NC01",
+      "R/C PEANUT BRITTLE 12X100G",
+      null,
+      39,
+      null
+    ],
+    [
+      "NP01",
+      "**BATCH NEW POTATOES 12X400g",
+      null,
+      11,
+      null
+    ],
+    [
+      "OB21",
+      "**ODL BREAD MIX BROWN 15X1KG",
+      null,
+      20,
+      null
+    ],
+    [
+      "OD20",
+      "**MCDONL CURRY SAUCE 12X250G",
+      null,
+      128,
+      null
+    ],
+    [
+      "OD22",
+      "**MCDONELLS CURRY 12X500G",
+      null,
+      35,
+      null
+    ],
+    [
+      "OD350",
+      "**McD CURRY SAUCE SQEZY 12X350",
+      null,
+      20,
+      null
+    ],
+    [
+      "OL01",
+      "ROSS ORNG/LEMON CREAMS 2.25KG",
+      null,
+      16,
+      null
+    ],
+    [
+      "OLS25",
+      "K/W ORANGE & LEMON SLICES 2.5K",
+      null,
+      15,
+      null
+    ],
+    [
+      "PB02",
+      "LIONS POOR BENS 2KG",
+      null,
+      1,
+      null
+    ],
+    [
+      "PC02",
+      "K/WAY PONTEFRACT CAKES 3KG",
+      null,
+      21,
+      null
+    ],
+    [
+      "PC20",
+      "**WALKER PRAWNCOCKTAIL 32X32.5",
+      null,
+      11,
+      null
+    ],
+    [
+      "PF050",
+      "**McD SPICE BAG CLASSIC 12X40G",
+      null,
+      80,
+      null
+    ],
+    [
+      "PMR25",
+      "**PINK MINT ROCK STICK 120X25G",
+      null,
+      9,
+      null
+    ],
+    [
+      "PO323",
+      "POLO MINTS 32X3PK (FULL SIZE)",
+      null,
+      10,
+      null
+    ],
+    [
+      "PP01",
+      "POPPETS MINT CREME 36X40G",
+      null,
+      6,
+      null
+    ],
+    [
+      "PP06.",
+      "**PAYNES TOFFEE POPPETS 36x39g",
+      null,
+      10,
+      null
+    ],
+    [
+      "PR25",
+      "K/WAY FIZZY PEACH RINGS 2.5KG",
+      null,
+      60,
+      null
+    ],
+    [
+      "PSFJ",
+      "PIM SOFT FRUIT JELLIES 10X200G",
+      null,
+      5,
+      null
+    ],
+    [
+      "PW02",
+      "R/C PINK & WHITE 16X130G",
+      null,
+      1,
+      null
+    ],
+    [
+      "QC02",
+      "**WALKERS QUAVERS 32X20G",
+      null,
+      24,
+      null
+    ],
+    [
+      "QC07",
+      "**QUAVERS CHEESE 30X34G",
+      null,
+      30,
+      null
+    ],
+    [
+      "QC126",
+      "**QUAVERS 12x6pk",
+      null,
+      2,
+      null
+    ],
+    [
+      "RA08",
+      "**ROB ORGE NAS DBL/CON 6X1.75L",
+      null,
+      15,
+      null
+    ],
+    [
+      "RA09",
+      "**ROB APP/BLK DBL/CON 6X1.75",
+      null,
+      15,
+      null
+    ],
+    [
+      "RA11",
+      "**ROB APPLE/BLACK NAS 12X1L",
+      null,
+      30,
+      null
+    ],
+    [
+      "RA12",
+      "**ROB SUMMER FRUITS NAS 12X1L",
+      null,
+      30,
+      null
+    ],
+    [
+      "RA13",
+      "**ROB PINK GRAPEFRUIT NAS 12X1",
+      null,
+      15,
+      null
+    ],
+    [
+      "RA16",
+      "**ROB F&B NAS APP/PEAR 12X1L",
+      null,
+      18,
+      null
+    ],
+    [
+      "RA21",
+      "**R/SON PEACH FRT BAR NAS 12X1",
+      null,
+      2,
+      null
+    ],
+    [
+      "RA22",
+      "**ROB NAS ORANGE 12X1L",
+      null,
+      31,
+      null
+    ],
+    [
+      "RA25",
+      "**ROB SQUASHED ORANGE 6X66ML",
+      null,
+      12,
+      null
+    ],
+    [
+      "RA27",
+      "**ROB ORANGE/PINE DC 12X1LTR",
+      null,
+      16,
+      null
+    ],
+    [
+      "RA28",
+      "**ROB MINI SUMMER FRUIT 6X66ML",
+      null,
+      11,
+      null
+    ],
+    [
+      "RA33",
+      "**ROB APP & B/C D/CONC 12X1LT",
+      null,
+      2,
+      null
+    ],
+    [
+      "RA34",
+      "**ROB ORANGE PINE DC 6X1.75LTR",
+      null,
+      20,
+      null
+    ],
+    [
+      "RA36",
+      "**ROB D/C SUMMER FRUITS 12X1LT",
+      null,
+      18,
+      null
+    ],
+    [
+      "RC04",
+      "**NESTLE ROLO 12X4PK",
+      null,
+      29,
+      null
+    ],
+    [
+      "RCN130",
+      "R/C RHUB & CUST NOUGAT 16X130G",
+      null,
+      7,
+      null
+    ],
+    [
+      "RGJ350",
+      "ABBEYFARM RHUBARB GINGER 6X350",
+      null,
+      9,
+      null
+    ],
+    [
+      "RM02",
+      "**ROBERTSON GOLDEN SHRED 6X454",
+      null,
+      4,
+      null
+    ],
+    [
+      "RR03",
+      "BARRATT REFRESHER ROLL 48S",
+      null,
+      3,
+      null
+    ],
+    [
+      "RRF130",
+      "R/C RUM & RAISIN FUDGE 16X130G",
+      null,
+      11,
+      null
+    ],
+    [
+      "RT01",
+      "MCVITIES RICH TEA 12X300G",
+      null,
+      20,
+      null
+    ],
+    [
+      "RV03",
+      "**REVELS TREAT BAG 20X71G",
+      null,
+      1,
+      null
+    ],
+    [
+      "SA20",
+      "K/WAY FIZZY SOUR APPLES 3KG",
+      null,
+      24,
+      null
+    ],
+    [
+      "SAT3",
+      "STOCKLEYS ANISEED TWIST 3KG",
+      null,
+      3,
+      null
+    ],
+    [
+      "SB138",
+      "**STARBURST ORIGINAL 12X138G",
+      null,
+      16,
+      null
+    ],
+    [
+      "SBL3",
+      "STOCKLEYS B/CURRANT & LIC 3KG",
+      null,
+      20,
+      null
+    ],
+    [
+      "SBM16",
+      "**STARBURST MINIS 16X137G",
+      null,
+      16,
+      null
+    ],
+    [
+      "SBS138",
+      "**STARBURST STRAWBERRY 12X138G",
+      null,
+      16,
+      null
+    ],
+    [
+      "SC02",
+      "K/WAY STRAWBERRY CREME 3KG",
+      null,
+      10,
+      null
+    ],
+    [
+      "SCC3",
+      "STOCKLEYS COLA CUBES 3KG",
+      null,
+      3,
+      null
+    ],
+    [
+      "SCCT3",
+      "ST/LEYS COUGH CANDY TWIST 3KG",
+      null,
+      5,
+      null
+    ],
+    [
+      "SCF3",
+      "STOCKLEYS CHOC FRUITS 3KG",
+      null,
+      5,
+      null
+    ],
+    [
+      "SCFR3",
+      "**STOCKLEYS COLTSFOOT ROCK 3KG",
+      null,
+      11,
+      null
+    ],
+    [
+      "SCL2",
+      "**STOCKLEY S/F CHOC LIMES 2KG",
+      null,
+      1,
+      null
+    ],
+    [
+      "SCL3",
+      "STOCKLEYS CHOC LIMES 3KG",
+      null,
+      20,
+      null
+    ],
+    [
+      "SCS3",
+      "K/WAY SUGAR COATED STR/BERRY 3",
+      null,
+      2,
+      null
+    ],
+    [
+      "SEM3",
+      "STOCKLEYS EVERTON MINTS 3KG",
+      null,
+      9,
+      null
+    ],
+    [
+      "SF03",
+      "**MAXLIN SOUR FLYERS 12X75",
+      null,
+      26,
+      null
+    ],
+    [
+      "SF08",
+      "**BARRATT SHERBET FOUNTAIN 48S",
+      null,
+      118,
+      null
+    ],
+    [
+      "SF10",
+      "K/WAY S/FREE COLA BOTTLE 3KG",
+      null,
+      8,
+      null
+    ],
+    [
+      "SF11",
+      "K/WAY S/FREE TEDDY BEARS 3KG",
+      null,
+      8,
+      null
+    ],
+    [
+      "SF12",
+      "K/WAY S/FREE FRUIT SALAD 3KG",
+      null,
+      8,
+      null
+    ],
+    [
+      "SK01",
+      "**SKIPS PRAWN COCKTAIL 26X35G",
+      null,
+      41,
+      null
+    ],
+    [
+      "SK02",
+      "**SKIPS PRAWN COCK 20X6PK",
+      null,
+      5,
+      null
+    ],
+    [
+      "SL162",
+      "BASSETT SHERBET LEMONS 12X162G",
+      null,
+      10,
+      null
+    ],
+    [
+      "SM01",
+      "MILLIONS STRAWBERRY 12S",
+      null,
+      13,
+      null
+    ],
+    [
+      "SM09",
+      "K/WAY SPACE MIX 3KG",
+      null,
+      1,
+      null
+    ],
+    [
+      "SM10",
+      "KINGSWAY SOUR MELON 3KG",
+      null,
+      1,
+      null
+    ],
+    [
+      "SM10110",
+      "MAYNARDS SPORTS MIX 10X110G",
+      null,
+      15,
+      null
+    ],
+    [
+      "SM10130",
+      "MAYNARDS SPORTS MIX 10X130G",
+      null,
+      4,
+      null
+    ],
+    [
+      "SM12",
+      "**NESTLE SMARTIES 16X3PK",
+      null,
+      10,
+      null
+    ],
+    [
+      "SOFH3",
+      "STOCKL OLD FASHION HUMBUGS 3KG",
+      null,
+      5,
+      null
+    ],
+    [
+      "SPD3",
+      "STOCKLEYS PEAR DROPS 3KG",
+      null,
+      20,
+      null
+    ],
+    [
+      "SQB140",
+      "SQUASHIES BUBBLEGUM 12X140G",
+      null,
+      19,
+      null
+    ],
+    [
+      "SQCC140",
+      "SQUASHIES CHERRY COLA 12X140G",
+      null,
+      20,
+      null
+    ],
+    [
+      "SQO140",
+      "SQUASHIES ORIGINAL 12X140G",
+      null,
+      38,
+      null
+    ],
+    [
+      "SQS140",
+      "SQUASHIES SOUR 12X140G",
+      null,
+      8,
+      null
+    ],
+    [
+      "SQSS100",
+      "SQ SOUR SHOOTING STARS 12X100G",
+      null,
+      7,
+      null
+    ],
+    [
+      "SQT100",
+      "SQUASHIES TROPICAL 12X100G",
+      null,
+      5,
+      null
+    ],
+    [
+      "SRA3",
+      "STOCKLEYS ROSY APPLES 3KG",
+      null,
+      20,
+      null
+    ],
+    [
+      "SRC3",
+      "STOCKLEY RHUBARB & CUSTARD 3KG",
+      null,
+      20,
+      null
+    ],
+    [
+      "SSL2",
+      "**STOCKLEYS S/F SHER LEMONS 2K",
+      null,
+      1,
+      null
+    ],
+    [
+      "SSL3",
+      "STOCKLEYS SHERBET LEMONS 3KG",
+      null,
+      22,
+      null
+    ],
+    [
+      "SSP3",
+      "STOCKLEYS SWEET PEANUTS 3KG",
+      null,
+      7,
+      null
+    ],
+    [
+      "SSS2",
+      "**STOCK S/F SHERB S/BERRIES 2K",
+      null,
+      5,
+      null
+    ],
+    [
+      "TB02",
+      "TREBOR XXX MINTS 12X5PK",
+      null,
+      7,
+      null
+    ],
+    [
+      "TBB40",
+      "**TAYLORS BISCUIT BREW 4X40PK",
+      null,
+      42,
+      null
+    ],
+    [
+      "TBTB40",
+      "**TAYLORS BEDTIME BREW 4X40PK",
+      null,
+      14,
+      null
+    ],
+    [
+      "TC02",
+      "K/WAY FIZZY TWIN CHERRY 3KG",
+      null,
+      10,
+      null
+    ],
+    [
+      "TC04",
+      "**NEST TOFFEE CRISP 14X4PK",
+      null,
+      11,
+      null
+    ],
+    [
+      "TC06",
+      "K/WAY TWIN CHERRY 3KG",
+      null,
+      14,
+      null
+    ],
+    [
+      "TC24",
+      "**TANGO S/F CHERRY 24X330ML",
+      null,
+      15,
+      null
+    ],
+    [
+      "TCOM104",
+      "**TERRY CHOC ORG MINIS 10X104G",
+      null,
+      25,
+      null
+    ],
+    [
+      "TD06",
+      "WALKERS TREACLE TOFFEE  2.5KG",
+      null,
+      8,
+      null
+    ],
+    [
+      "TN01",
+      "R/C TRIPLE NOUGAT 16X130G",
+      null,
+      3,
+      null
+    ],
+    [
+      "TO10",
+      "**TANGO ORANGE 24X330ML",
+      null,
+      1,
+      null
+    ],
+    [
+      "TPD3",
+      "K/W FIZZ B/GUM T/P DUMMIES 3KG",
+      null,
+      1,
+      null
+    ],
+    [
+      "TSFA330",
+      "**TANGO SUGARFREE APPLE 24X330",
+      null,
+      6,
+      null
+    ],
+    [
+      "VF130",
+      "RCC VANILLA FUDGE 16X130G",
+      null,
+      4,
+      null
+    ],
+    [
+      "VI01",
+      "**VIMTO ORIGINAL FIZZY 24X330",
+      null,
+      1,
+      null
+    ],
+    [
+      "VI02",
+      "**VIMTO ZERO 24X330ML",
+      null,
+      13,
+      null
+    ],
+    [
+      "VI04",
+      "**VIMTO CORDIAL ORIG NAS 12X1L",
+      null,
+      62,
+      null
+    ],
+    [
+      "VI05",
+      "**VIMTO CORDIAL ORIG 12X1L",
+      null,
+      67,
+      null
+    ],
+    [
+      "VI08",
+      "**VIMTO CORDIAL 12X725ML",
+      null,
+      8,
+      null
+    ],
+    [
+      "VI14",
+      "**VIMTO NAS CORDIAL 12X725ML",
+      null,
+      2,
+      null
+    ],
+    [
+      "WA19",
+      "**SMITHS SCAMPI FRIES 2X24PK",
+      null,
+      9,
+      null
+    ],
+    [
+      "WA25",
+      "**SMITHS BACON FRIES 2X24PK",
+      null,
+      15.5,
+      null
+    ],
+    [
+      "WB07",
+      "WALKERS BANANA TOFFEE 12X150",
+      null,
+      1,
+      null
+    ],
+    [
+      "WC25",
+      "WALKER SALTED CARAMEL 2.5KG",
+      null,
+      8,
+      null
+    ],
+    [
+      "WCO45",
+      "WALKERS CHEESE & ONION 32X45G",
+      null,
+      20,
+      null
+    ],
+    [
+      "WE01",
+      "WALKERS CHOC ECLAIRS 12X150G",
+      null,
+      8,
+      null
+    ],
+    [
+      "WG01",
+      "**CAD WISPA GOLD 48X48G",
+      null,
+      1,
+      null
+    ],
+    [
+      "WG03",
+      "LIONS WINE GUMS 2KG",
+      null,
+      7,
+      null
+    ],
+    [
+      "WGFH60",
+      "WOTSITS GIANT FLAMIN HOT 18X60",
+      null,
+      1,
+      null
+    ],
+    [
+      "WI02",
+      "**CADBURY WISPA 48X36G",
+      null,
+      89,
+      null
+    ],
+    [
+      "WI03",
+      "**CADBURY WISPA 11X4PK",
+      null,
+      29,
+      null
+    ],
+    [
+      "WL01",
+      "WALKERS LIQUORICE TOFFEE 2.5KG",
+      null,
+      20,
+      null
+    ],
+    [
+      "WL02",
+      "WALKERS LIQ TOFFEE 12X150G",
+      null,
+      39,
+      null
+    ],
+    [
+      "WLP70",
+      "WALKERS LEA & PERRINS 18X70G",
+      null,
+      1,
+      null
+    ],
+    [
+      "WM01",
+      "HANAHS WHITE MICE 12X140G",
+      null,
+      10,
+      null
+    ],
+    [
+      "WM02",
+      "WALKERS MINT TOFFEE 12X150G",
+      null,
+      5,
+      null
+    ],
+    [
+      "WM04",
+      "K/WAY FIZZY W/MELON SLICE 3KG",
+      null,
+      11,
+      null
+    ],
+    [
+      "WOB120",
+      "**CAD WHITE OREO BAR 17X120G",
+      null,
+      22,
+      null
+    ],
+    [
+      "WOT36",
+      "**WOTSITS CHEESE 30X36G",
+      null,
+      30,
+      null
+    ],
+    [
+      "WPC45",
+      "**WALKERS PRAWN COCKTAIL 32X45",
+      null,
+      20,
+      null
+    ],
+    [
+      "WRC45",
+      "WALKERS ROAST CHICKEN 32X45G",
+      null,
+      10,
+      null
+    ],
+    [
+      "WS01",
+      "**SQUARES SALT VINIGAR 32X27.5",
+      null,
+      2,
+      null
+    ],
+    [
+      "WS20",
+      "WALKERS SALT CARAMEL 12X150G",
+      null,
+      11,
+      null
+    ],
+    [
+      "WS22",
+      "**SQUARES CHEESE ONION 32X27.5",
+      null,
+      2,
+      null
+    ],
+    [
+      "WSB45",
+      "WALKERS SMOKY BACON 32X45G",
+      null,
+      10,
+      null
+    ],
+    [
+      "WSV45",
+      "WALKERS SALT & VINEGAR 32X45G",
+      null,
+      10,
+      null
+    ],
+    [
+      "WT01",
+      "**WALKER TREACLE TRAY 10X100G",
+      null,
+      26,
+      null
+    ],
+    [
+      "WT02",
+      "**WALKER ORIGINAL TRAY 10X100G",
+      null,
+      1,
+      null
+    ],
+    [
+      "WT03",
+      "**WALKERS BRAZIL TRAY 10X100G",
+      null,
+      21,
+      null
+    ],
+    [
+      "WT04",
+      "**WALKER HAZELNUT TRAY 10X100G",
+      null,
+      4,
+      null
+    ],
+    [
+      "WT09",
+      "**WALKERS LIQ TRAY 10X100G",
+      null,
+      32,
+      null
+    ],
+    [
+      "YK02",
+      "**YORKIE RASIN/BISCUIT 24X44G",
+      null,
+      1,
+      null
+    ],
+    [
+      "YK05",
+      "NESTLE YORKI 16X3PK",
+      null,
+      3,
+      null
+    ],
+    [
+      "YK10",
+      "YEUNGS CURRY SAUCE 12X220G",
+      null,
+      5,
+      null
+    ],
+    [
+      "YKM3",
+      "**YORKIE MILK 14X3PK",
+      null,
+      12,
+      null
+    ],
+    [
+      "ZFJ800",
+      "*ZOF SPRAY FRESIA JASMIN 8X800",
+      null,
+      10.75,
+      null
+    ],
+    [
+      "ZFL120",
+      "**ZOFLORA FRESH LINEN 12X120ML",
+      null,
+      29,
+      null
+    ],
+    [
+      "ZGL800",
+      "*ZOF SPRAY G/FRT LIME 8X800ML",
+      null,
+      4.75,
+      null
+    ],
+    [
+      "ZLF800",
+      "**ZOFL LINEN FRESH SPRAY 8X800",
+      null,
+      1,
+      null
+    ]
+  ],
+  "review": [
+    {
+      "code": "BDT80",
+      "description": "**BARRYS DECAF TEABAGS 6X80PK",
+      "unit": null,
+      "quantity": 55,
+      "issue": "Duplicate reference restored on both Odoo products, as confirmed on 2 November 2026. Names differ by NEW. Confirm which product should receive the source count of 55, or whether it must be split between the records.",
+      "candidates": [
+        {
+          "name": "Barrys Decaf Teabags 6x250g (80pk)",
+          "templateId": "1974",
+          "sourceRow": 48
+        },
+        {
+          "name": "Barrys Decaf Teabags 6x250g (80pk) - NEW",
+          "templateId": "2045",
+          "sourceRow": 49
+        }
+      ],
+      "selectedTemplateId": "1974",
+      "sourceSheet": "Stocktake",
+      "sourceRow": 109
+    },
+    {
+      "code": "BFH130",
+      "description": "**BARRATT FLUMP HEARTS 12X130G",
+      "unit": null,
+      "quantity": 1,
+      "issue": "Duplicate reference: Barratt Flump Hearts 12x130g versus the same name ending NEW PRODUCT. This line is in the authoritative original stocktake but absent from the last-cost workbook. Confirm the intended product record.",
+      "candidates": [
+        {
+          "name": "Barratt Flump Hearts 12x130g",
+          "templateId": "867",
+          "sourceRow": 34
+        },
+        {
+          "name": "Barratt Flump Hearts 12x130g - NEW PRODUCT",
+          "templateId": "1040",
+          "sourceRow": 35
+        }
+      ],
+      "selectedTemplateId": null,
+      "sourceSheet": "Stocktake",
+      "sourceRow": 110
+    },
+    {
+      "code": "BFS120",
+      "description": "**BARRAT FRUIT SALAD SQ 12X120",
+      "unit": null,
+      "quantity": 11,
+      "issue": "Duplicate reference: Fruity Mix versus Squishy Sunburst. Stocktake description says Squishy; existing lookup selects Fruity Mix (868). Confirm the actual counted product.",
+      "candidates": [
+        {
+          "name": "Barratt Fruit Salad Fruity Mix 12x120g - NEW PRODUCT",
+          "templateId": "868",
+          "sourceRow": 37
+        },
+        {
+          "name": "Barratt Fruit Salad Squishy Sunburst 12x120g",
+          "templateId": "869",
+          "sourceRow": 38
+        }
+      ],
+      "selectedTemplateId": "868",
+      "sourceSheet": "Stocktake",
+      "sourceRow": 111
+    },
+    {
+      "code": "BT03",
+      "description": "**BARRYS MASTER BLEND 6X80PK",
+      "unit": null,
+      "quantity": 20.33,
+      "issue": "Duplicate reference: standard versus NEW PRODUCT. Confirm which product received the count and check the source fractional quantity of 20.33.",
+      "candidates": [
+        {
+          "name": "Barrys Master Blend Teabags 6x250g (80pk)",
+          "templateId": "2049",
+          "sourceRow": 53
+        },
+        {
+          "name": "Barrys Master Blend Teabags 6x250g (80pk) - NEW PRODUCT",
+          "templateId": "1970",
+          "sourceRow": 54
+        }
+      ],
+      "selectedTemplateId": "2049",
+      "sourceSheet": "Stocktake",
+      "sourceRow": 140
+    },
+    {
+      "code": "CM05",
+      "description": "**CADBURY MINT CRISP 48X49G",
+      "unit": null,
+      "quantity": 16,
+      "issue": "Duplicate reference and pack-size mismatch: stocktake description says 48x49g; existing lookup selects 48x54g (1861). Confirm actual pack size.",
+      "candidates": [
+        {
+          "name": "Cadbury Ireland Mint Crisp 48x54g",
+          "templateId": "1861",
+          "sourceRow": 144
+        },
+        {
+          "name": "Cadbury Mint Crisp 48x49g (Irish Cadbury)",
+          "templateId": "1212",
+          "sourceRow": 146
+        }
+      ],
+      "selectedTemplateId": "1861",
+      "sourceSheet": "Stocktake",
+      "sourceRow": 163
+    },
+    {
+      "code": "CO07S",
+      "description": "**CLUB ORANGE SLIM 24X330ML",
+      "unit": null,
+      "quantity": 101,
+      "issue": "Two exported products have the same reference and name. Confirm the intended product record and give each product a unique reference.",
+      "candidates": [
+        {
+          "name": "Britvic Ireland Club Orange 24x330ml Slimline Can",
+          "templateId": "1850",
+          "sourceRow": 80
+        },
+        {
+          "name": "Britvic Ireland Club Orange 24x330ml Slimline Can",
+          "templateId": "2008",
+          "sourceRow": 81
+        }
+      ],
+      "selectedTemplateId": "1850",
+      "sourceSheet": "Stocktake",
+      "sourceRow": 166
+    },
+    {
+      "code": "EC03",
+      "description": "**ROSS ECR STICKS 24x6pk",
+      "unit": null,
+      "quantity": 1,
+      "issue": "Two exported products have the same reference and name. Confirm the intended product record and give each product a unique reference.",
+      "candidates": [
+        {
+          "name": "Ross's Edinbro' Castle Rock Sticks in Tartan Box 24x6pk",
+          "templateId": "1411",
+          "sourceRow": 643
+        },
+        {
+          "name": "Ross's Edinbro' Castle Rock Sticks in Tartan Box 24x6pk",
+          "templateId": "1035",
+          "sourceRow": 644
+        }
+      ],
+      "selectedTemplateId": "1411",
+      "sourceSheet": "Stocktake",
+      "sourceRow": 196
+    },
+    {
+      "code": "GC01",
+      "description": "**CADBURY GOLDEN CRISP 48X54G",
+      "unit": null,
+      "quantity": 20,
+      "issue": "Duplicate reference and pack-size mismatch: stocktake description says 48x54g; existing lookup selects 48x49g (1211). Confirm actual pack size.",
+      "candidates": [
+        {
+          "name": "Cadbury Golden Crisp 48x49g (Irish Cadbury)",
+          "templateId": "1211",
+          "sourceRow": 141
+        },
+        {
+          "name": "Cadbury Ireland Golden Crisp 48x54g",
+          "templateId": "1860",
+          "sourceRow": 143
+        }
+      ],
+      "selectedTemplateId": "1211",
+      "sourceSheet": "Stocktake",
+      "sourceRow": 231
+    },
+    {
+      "code": "LFG130",
+      "description": "LION FOOTBALL GUMS 12X130G",
+      "unit": null,
+      "quantity": 26,
+      "issue": "Duplicate reference: product names differ by BAG. Confirm which product received the count and the unit being counted.",
+      "candidates": [
+        {
+          "name": "Lion Football Gums 12x130g",
+          "templateId": "895",
+          "sourceRow": 389
+        },
+        {
+          "name": "Lion Football Gums 12x130g BAG",
+          "templateId": "1673",
+          "sourceRow": 390
+        }
+      ],
+      "selectedTemplateId": "895",
+      "sourceSheet": "Stocktake",
+      "sourceRow": 291
+    },
+    {
+      "code": "LLG130",
+      "description": "LION LIQUORICE GUMS 12X130G",
+      "unit": null,
+      "quantity": 18,
+      "issue": "Duplicate reference: product names differ by BAG. Confirm which product received the count and the unit being counted.",
+      "candidates": [
+        {
+          "name": "Lion Liquorice Gums 12x130g",
+          "templateId": "898",
+          "sourceRow": 397
+        },
+        {
+          "name": "Lion Liquorice Gums 12x130g BAG",
+          "templateId": "1678",
+          "sourceRow": 398
+        }
+      ],
+      "selectedTemplateId": "898",
+      "sourceSheet": "Stocktake",
+      "sourceRow": 297
+    },
+    {
+      "code": "LMG130",
+      "description": "LION MIDGET GEMS 12X130G",
+      "unit": null,
+      "quantity": 24,
+      "issue": "Duplicate reference: Midget Gems BAG versus Mini Gems. Confirm the actual counted product.",
+      "candidates": [
+        {
+          "name": "Lion Midget Gems 12x130g BAG",
+          "templateId": "1680",
+          "sourceRow": 400
+        },
+        {
+          "name": "Lion Mini Gems 12x130g",
+          "templateId": "899",
+          "sourceRow": 402
+        }
+      ],
+      "selectedTemplateId": "1680",
+      "sourceSheet": "Stocktake",
+      "sourceRow": 298
+    }
+  ],
+  "excluded": [
+    {
+      "code": "MISC",
+      "description": "MISC ITEM",
+      "unit": null,
+      "quantity": 15,
+      "reason": "Exclude from import: Nitin's decision confirmed by Veer on 2 November 2026. Original source quantity retained for reconciliation."
+    }
+  ],
+  "sourceCount": 479,
+  "importSourceCount": 391,
+  "readyQuantity": 7318.17,
+  "reviewQuantity": 293.33,
+  "excludedQuantity": 15,
+  "totalQuantity": 7626.5,
+  "unitStatus": "All source Unit of Measure cells are blank. Veer does not know the counted unit; preserve the numeric counts without conversion. Odoo interprets them in the configured inventory unit.",
+  "galaxyEvidence": "Product 1023966, **GALAXY BLOCK 17X360G; supplied screenshot confirms Units and inventory tracking. Supplied product.template export confirms template ID 2446, External ID __export__.product_template_2446_c565a8f6, and cost 118.42. No variant or inventory-record ID supplied."
+}
