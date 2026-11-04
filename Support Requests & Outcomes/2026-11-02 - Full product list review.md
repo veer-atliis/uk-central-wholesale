@@ -230,7 +230,7 @@ All have zero stock.
 ## Evidence and validation
 
 - [Fresh full product export](../Go%20Live%20Files/Client%20Supplied/Product%20%28product.template%29%20%283%29.xlsx), Sheet1 A1:K799. Original supplied from Downloads, retained unchanged with matching SHA-256 `3a0462bee915eb92166637a99d0187b0c3bac773a0572f0f68ab600799f0bfc0`.
-- [Prepared stock import](../Go%20Live%20Files/Edited/Stock%20Import/Stock%20Import%20-%20Ready.xlsx), Import A1:B468.
+- [First stock import batch (now named Done 1)](../Go%20Live%20Files/Edited/Stock%20Import/Stock%20Import%20-%20Done%201.xlsx), Import A1:B468. Renamed following Veer's import confirmation on 5 November 2026; contents unchanged.
 - [Post-import Quant export](../Go%20Live%20Files/Client%20Supplied/Quant%20%28stock.quant%29%20%281%29.xlsx), Sheet1 A1:G469.
 - [Original quantity source](../Go%20Live%20Files/Client%20Supplied/UK_Central_Wholesale_-_Stocktake_1_Oct_2026.xlsx), Stocktake. This remains quantity authority.
 - [Supplied last-cost context](../Go%20Live%20Files/Client%20Supplied/UK_Central_Wholesale_Stocktake_with_Last_Cost.xlsx), Stocktake G, matched by column A. It is not quantity authority.
